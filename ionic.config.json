@@ -1,0 +1,7 @@
+{
+  "name": "fishapp-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
